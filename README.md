@@ -1,2 +1,1 @@
-# Crumpled-Ball-2
-Project 25
+# CP-2
